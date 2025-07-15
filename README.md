@@ -6,7 +6,7 @@ This is my personal portfolio website to showcase my projects, ideas, and creati
 
 ## 🌐 Live Site
 
-[https://your-portfolio-link.com](https://your-portfolio-link.com)
+[https://harsh-kb.github.io/harsh-kamboj-nexus/](https://harsh-kb.github.io/harsh-kamboj-nexus/)
 
 ---
 
