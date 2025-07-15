@@ -19,6 +19,20 @@ const Layout = ({ children }: LayoutProps) => {
       >
         {children}
       </motion.main>
+      
+      {/* Footer */}
+      <footer className="border-t border-border py-8 mt-20">
+        <div className="container mx-auto px-4">
+          <div className="text-center space-y-4">
+            <p className="text-sm text-muted-foreground">
+              © 2024 Harsh Kamboj. All rights reserved.
+            </p>
+            <p className="text-xs text-muted-foreground">
+              Designed & built with passion for the future
+            </p>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 };
