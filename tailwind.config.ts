@@ -19,10 +19,10 @@ export default {
 		},
 		extend: {
 			fontFamily: {
-				'inter': ['Inter Variable', 'sans-serif'],
-				'sora': ['Sora Variable', 'sans-serif'],
-				'display': ['Sora Variable', 'sans-serif'],
-				'body': ['Inter Variable', 'sans-serif'],
+				'inter': ['Inter', 'sans-serif'],
+				'sora': ['Sora', 'sans-serif'],
+				'display': ['Sora', 'sans-serif'],
+				'body': ['Inter', 'sans-serif'],
 			},
 			colors: {
 				border: 'hsl(var(--border))',
