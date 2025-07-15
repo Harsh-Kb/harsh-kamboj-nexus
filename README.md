@@ -1,73 +1,40 @@
-# Welcome to your Lovable project
+# Harsh Kamboj – Portfolio
 
-## Project info
+This is my personal portfolio website to showcase my projects, ideas, and creative journey in technology, design, and storytelling.
 
-**URL**: https://lovable.dev/projects/cd82ea4b-591d-4e2b-a088-3de2551fe242
+---
 
-## How can I edit this code?
+## 🌐 Live Site
 
-There are several ways of editing your application.
+[https://your-portfolio-link.com](https://your-portfolio-link.com)
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/cd82ea4b-591d-4e2b-a088-3de2551fe242) and start prompting.
+## 📂 Sections
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Home** – Personal introduction and mission  
+- **About** – My background, interests, and philosophy  
+- **Projects** – Selected works in AI, mobile development, and fiction  
+- **Gallery** – Visual experiments and curated aesthetics  
+- **Blog** – Thoughts on design, systems thinking, and self-mastery  
+- **Contact** – Get in touch for collaboration or conversation
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📌 Highlights
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- B.Tech CSE (Hons.) in AI/ML @ Chandigarh University  
+- Passionate about building digital systems, writing stories, and designing intuitive experiences  
+- Focused on systems thinking, discipline, and self-awareness
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📫 Contact
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- Email: **harshxkamboj@gmail.com**  
+- Instagram: [@harsh_kb3](https://instagram.com/harsh_kb3)  
+- Twitter/X: [@harsh_kb3](https://x.com/harsh_kb3)
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/cd82ea4b-591d-4e2b-a088-3de2551fe242) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+> “My mind is a lab. My life, the experiment. My vision, inevitable.”
